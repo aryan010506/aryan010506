@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm aryan sunil</h1>
+<h1 align="center">Hi 👋, I'm Aryan Sunil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan010506&label=Profile%20views&color=0e75b6&style=flat" alt="aryan010506" /> </p>
