@@ -9,9 +9,8 @@
 
 - 📫 How to reach me **aryan010506@gmail.com**
 
-- 📄 Know about my experiences (https://aryansunilportfolio.netlify.app/)
-- 
-
+- 👨‍💻 All of my projects are available at(https://aryansunilportfolio.netlify.app/)
+- 📄 Know about my experiences (https://aryansunilportfolio.netlify.app/Aryan%20Sunil%20Resume.pdf)
 - ⚡ Fun fact **I love chicken**
 
 <h3 align="left">Connect with me:</h3>
