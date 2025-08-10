@@ -10,7 +10,6 @@
 - 📫 How to reach me **aryan010506@gmail.com**
 
 - 📄 Know about my experiences (https://aryansunilportfolio.netlify.app/)
-- https://aryansunilportfolio.netlify.app/
 - 
 
 - ⚡ Fun fact **I love chicken**
